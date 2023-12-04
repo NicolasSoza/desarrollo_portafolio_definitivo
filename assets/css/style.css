@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.logo_soza{
+    width: 25%;
+}
+
+.color-nav-green {
+    background-color:black;
+}
+
+
+.foto_cv{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    margin: 80px;
+}
+
+.section{
+    display: inline-block;
+    align-items: center;
+    margin-left: 150px;
+}
+.section h3{
+    margin-bottom: 10px;
+    font-size:larger;
+}
+
+.section ul{
+    margin-top: 20px;
+}
+
+.tarjetas{
+    align-items: center;
+}
+
+.imagen-container {
+    margin-bottom: -20px;
+}
+
+.educacion p{
+    margin: 10px;
+    font-size:larger;
+}
+
+.experiencia-laboral{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+
+.fork{
+    align-items: center;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 20px;
+
+}
+
+.portafolio h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.portafolio{
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main span{
+    font-weight: lighter;
+}
+
+.price{
+    font-size: small;
+    text-align: right;
+    
+}
+
+.price-2 {
+    color: #28A745;
+    font-weight:900;
+    font-size: medium;
+
+}
+
+.main{
+    margin-bottom: 50px;
+}
+
+.inline-paragraph{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.container-fluid-2 {
+    background-color:black;
+    background-size: cover;
+    text-align: center;
+}
+
+.form{
+    background-size: cover;
+    height: 50px;
+    font-weight: lighter;
+}
+
+.footer-img{
+    margin-top: 20px;
+}
+
+.footer-text{
+    font-weight: lighter;
+    margin-top: 10px;
+}
+
