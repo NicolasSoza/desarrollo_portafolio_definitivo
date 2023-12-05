@@ -77,6 +77,28 @@ body {
     text-align: center;
 }
 
+    footer {
+        margin-top: 20px;
+        padding: 10px;
+        
+    }
+
+    .footer-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer-container a {
+        margin-right: 20px; 
+        
+    }
+
+    .footer-text {
+        margin-top: 10px;
+       
+    }
+
 
 
 
